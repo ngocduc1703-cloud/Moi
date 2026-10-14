@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+  <action><actionName>CUSTOM-buildAndroid</actionName><displayName>Build Android APK</displayName><goals><goal>clean</goal><goal>package</goal></goals><activatedProfiles><activatedProfile>android</activatedProfile></activatedProfiles></action>
+  <action><actionName>CUSTOM-buildWindows</actionName><displayName>Build Windows EXE</displayName><goals><goal>clean</goal><goal>package</goal></goals><activatedProfiles><activatedProfile>windows</activatedProfile></activatedProfiles></action>
+</actions>

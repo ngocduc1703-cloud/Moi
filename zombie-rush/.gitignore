@@ -1,0 +1,8 @@
+**/target/
+dist/
+.build/
+*.keystore
+*.jks
+*.p12
+nbproject/private/
+.idea/

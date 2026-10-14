@@ -1,5 +1,17 @@
 # Tải Vườn Ghép Ba
 
+## Game mới: Đại Lộ Zombie
+
+| File | Dùng để làm gì |
+| --- | --- |
+| [DaiLoZombie-Setup.exe](https://github.com/ngocduc1703-cloud/Moi/raw/refs/heads/main/downloads/DaiLoZombie-Setup.exe) | Bộ cài game chạy vô tận trên Windows 10/11 64-bit, có sẵn Java |
+| [DaiLoZombie-Android.apk](https://github.com/ngocduc1703-cloud/Moi/raw/refs/heads/main/downloads/DaiLoZombie-Android.apk) | Chơi trên điện thoại Android 6.0 trở lên, màn hình ngang |
+| [DaiLoZombie-NetBeans-Source.zip](https://github.com/ngocduc1703-cloud/Moi/raw/refs/heads/main/downloads/DaiLoZombie-NetBeans-Source.zip) | Source Java/Maven độc lập, mở trong NetBeans |
+
+Đàn tự chạy, chạm/giữ hoặc SPACE để nhảy. Có rủ thêm zombie, lật xe, khiên, nam châm, khổng lồ và nâng cấp bằng xu. Xem [hướng dẫn Đại Lộ Zombie](../zombie-rush/README.md).
+
+## Vườn Ghép Ba và báo cáo
+
 | File | Dùng để làm gì |
 | --- | --- |
 | [VuonGhepBa-Setup.exe](https://github.com/ngocduc1703-cloud/Moi/raw/refs/heads/main/downloads/VuonGhepBa-Setup.exe) | Bộ cài Windows 10/11 64-bit, có sẵn Java runtime |

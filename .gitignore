@@ -1,0 +1,8 @@
+**/target/
+dist/
+.build/
+*.local
+*.keystore
+*.jks
+nbproject/private/
+.idea/

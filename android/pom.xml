@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent><groupId>vn.garden</groupId><artifactId>vuon-ghep-ba</artifactId><version>1.0.0</version></parent>
+  <artifactId>android</artifactId><name>Garden · Android APK</name>
+  <properties><android.home>${env.ANDROID_HOME}</android.home></properties>
+  <dependencies>
+    <dependency><groupId>vn.garden</groupId><artifactId>core</artifactId><version>${project.version}</version></dependency>
+    <dependency><groupId>android.sdk</groupId><artifactId>android</artifactId><version>35</version><scope>system</scope><systemPath>${android.home}/platforms/android-35/android.jar</systemPath></dependency>
+  </dependencies>
+  <build><plugins><plugin><groupId>org.apache.maven.plugins</groupId><artifactId>maven-antrun-plugin</artifactId><version>3.1.0</version>
+    <executions><execution><id>build-apk</id><phase>package</phase><goals><goal>run</goal></goals><configuration><target>
+      <exec executable="${java.home}/bin/java" failonerror="true"><arg value="${project.basedir}/../scripts/AndroidBuild.java"/><arg value="${project.basedir}/.."/><arg value="${android.home}"/></exec>
+    </target></configuration></execution></executions>
+  </plugin></plugins></build>
+</project>

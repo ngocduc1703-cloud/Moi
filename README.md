@@ -1,5 +1,7 @@
 # Vườn Ghép Ba
 
+**Game trí tuệ mới:** [Qua Sông IQ](river-iq/README.md) — 6 thử thách logic qua sông, đồ họa Java2D, gợi ý thông minh và source Maven mở trực tiếp bằng NetBeans.
+
 **Game thứ hai:** [Đại Lộ Zombie](zombie-rush/README.md) — game chạy vô tận với cả đàn zombie, có bản EXE, APK và source NetBeans riêng trong thư mục `downloads`.
 
 Game Java ghép ba ô cùng loại, giao diện tiếng Việt, dùng được với chuột trên máy tính và cảm ứng trên Android. Có 30 màn xếp lớp, khay 7 ô, điểm, sao, mở khóa màn, tạm dừng, âm thanh, tự lưu tiến độ; mỗi màn có 3 gợi ý, 3 hoàn tác và 2 xáo trộn. Chơi offline, không có quảng cáo hay mua hàng.

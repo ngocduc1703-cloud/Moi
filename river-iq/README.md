@@ -40,6 +40,15 @@ python3 scripts/package-source.py
 
 Đầu ra nằm trong `dist`: APK Android, bộ cài Windows kèm Java và ZIP source NetBeans.
 
+Để dựng APK theo quy trình Android Gradle Plugin chính thức:
+
+```sh
+cd android
+./gradlew assembleRelease
+```
+
+APK release chưa ký nằm trong `android/build/outputs/apk/release`. Khi phát hành cần căn chỉnh bằng `zipalign` và ký bằng `apksigner` với khóa của nhà phát triển.
+
 Kiểm thử:
 
 ```sh

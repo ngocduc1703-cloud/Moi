@@ -1,0 +1,38 @@
+plugins {
+    id 'com.android.application' version '8.7.3'
+}
+
+android {
+    namespace 'vn.ngocduc.quasongiq2'
+    compileSdk 35
+    buildToolsVersion '35.0.0'
+
+    defaultConfig {
+        applicationId 'vn.ngocduc.quasongiq2'
+        minSdk 23
+        targetSdk 35
+        versionCode 3
+        versionName '1.0.2'
+    }
+
+    sourceSets {
+        main {
+            manifest.srcFile 'src/gradle/AndroidManifest.xml'
+            java.srcDirs = ['src/main/java', '../src/main/java']
+            java.include 'vn/riveriq/android/**'
+            java.include 'vn/riveriq/Person.java'
+            java.include 'vn/riveriq/Puzzle.java'
+            java.include 'vn/riveriq/PuzzleCatalog.java'
+            java.include 'vn/riveriq/GameState.java'
+            java.include 'vn/riveriq/Solver.java'
+            java.exclude 'vn/riveriq/RiverIQApp.java'
+            java.exclude 'vn/riveriq/ProgressStore.java'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+}

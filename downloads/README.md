@@ -1,5 +1,12 @@
 # Tải Vườn Ghép Ba
 
+## Hướng dẫn Qua Sông IQ
+
+* [Hướng dẫn Qua Sông IQ — Word](Huong_Dan_Qua_Song_IQ.docx)
+* [Hướng dẫn Qua Sông IQ — PDF, 4 trang](Huong_Dan_Qua_Song_IQ.pdf)
+
+Tài liệu tiếng Việt gồm cài đặt, cách chơi, luật sáu màn, mở mã nguồn và xử lý lỗi thường gặp. Nội dung dựa trên mã nguồn `river-iq` trong kho này; chưa đối chiếu với gói ZIP đính kèm do vượt giới hạn tải 32 MB.
+
 ## Game mới: Đại Lộ Zombie
 
 | File | Dùng để làm gì |

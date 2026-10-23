@@ -2,8 +2,12 @@
 
 ## Hướng dẫn Zombie Survival — Pixel Art Edition
 
+* [Hướng dẫn chơi chi tiết — Word](Huong_Dan_Choi_Chi_Tiet_Zombie_Survival.docx)
+* [Hướng dẫn chơi chi tiết — PDF, 8 trang](Huong_Dan_Choi_Chi_Tiet_Zombie_Survival.pdf)
 * [Hướng dẫn Zombie Survival — Word](Huong_Dan_Zombie_Survival.docx)
 * [Hướng dẫn Zombie Survival — PDF, 5 trang](Huong_Dan_Zombie_Survival.pdf)
+
+Bản hướng dẫn chơi chi tiết tập trung vào đọc giao diện, điều khiển và lướt né, thông số/mua súng, quản lý đạn, từng loại Zombie, đánh Boss, vật phẩm, nâng cấp theo tình huống, lộ trình đợt 1–10, chế độ vô tận và checkpoint. Các thông số được đối chiếu mã nguồn trong gói; chiến thuật là gợi ý để người chơi điều chỉnh theo trận.
 
 Tài liệu dựa trên gói `ZombieSurvival.rar` do người dùng cung cấp, có hình minh họa, cách chạy Java 17+, điều khiển, vũ khí, nâng cấp, checkpoint và mở source NetBeans. Đây là game riêng, khác với Đại Lộ Zombie trong thư mục `zombie-rush`; mã nguồn của gói RAR không được thêm vào kho trong lần cập nhật tài liệu này.
 

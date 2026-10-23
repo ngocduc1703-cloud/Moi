@@ -13,10 +13,10 @@ Tài liệu dựa trên gói `ZombieSurvival.rar` do người dùng cung cấp, 
 
 ## Hướng dẫn Qua Sông IQ
 
-* [Hướng dẫn Qua Sông IQ — Word](Huong_Dan_Qua_Song_IQ.docx)
-* [Hướng dẫn Qua Sông IQ — PDF, 4 trang](Huong_Dan_Qua_Song_IQ.pdf)
+* [Hướng dẫn chơi Qua Sông IQ chi tiết — Word](Huong_Dan_Qua_Song_IQ.docx)
+* [Hướng dẫn chơi Qua Sông IQ chi tiết — PDF, 9 trang](Huong_Dan_Qua_Song_IQ.pdf)
 
-Tài liệu tiếng Việt gồm cài đặt, cách chơi, luật sáu màn, mở mã nguồn và xử lý lỗi thường gặp. Nội dung dựa trên mã nguồn `river-iq` trong kho này; chưa đối chiếu với gói ZIP đính kèm do vượt giới hạn tải 32 MB.
+Tài liệu được làm lại để tập trung vào cách chơi: chọn nhân vật, đi thuyền, phím điều khiển, gợi ý, hoàn tác, chấm sao, luật và mẹo từng màn. Có lời giải từng chuyến cho cả 6 màn, ghi rõ hướng đi và tên nhân vật. Toàn bộ 62 chuyến trong các lời giải đã được xác thực bằng bộ luật của game; số chuyến từng màn là 7, 7, 11, 11, 17 và 9, đều đạt mục tiêu 3 sao. Kèm cách mở game, lưu tiến độ và xử lý lỗi thường gặp. Nội dung dựa trên mã nguồn `river-iq` trong kho này; chưa đối chiếu với gói ZIP đính kèm do vượt giới hạn tải 32 MB.
 
 ## Game mới: Đại Lộ Zombie
 

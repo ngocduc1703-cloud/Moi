@@ -1,5 +1,12 @@
 # Tải Vườn Ghép Ba
 
+## Hướng dẫn Zombie Survival — Pixel Art Edition
+
+* [Hướng dẫn Zombie Survival — Word](Huong_Dan_Zombie_Survival.docx)
+* [Hướng dẫn Zombie Survival — PDF, 5 trang](Huong_Dan_Zombie_Survival.pdf)
+
+Tài liệu dựa trên gói `ZombieSurvival.rar` do người dùng cung cấp, có hình minh họa, cách chạy Java 17+, điều khiển, vũ khí, nâng cấp, checkpoint và mở source NetBeans. Đây là game riêng, khác với Đại Lộ Zombie trong thư mục `zombie-rush`; mã nguồn của gói RAR không được thêm vào kho trong lần cập nhật tài liệu này.
+
 ## Hướng dẫn Qua Sông IQ
 
 * [Hướng dẫn Qua Sông IQ — Word](Huong_Dan_Qua_Song_IQ.docx)
